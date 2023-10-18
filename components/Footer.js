@@ -1,4 +1,5 @@
 'use client';
+
 import { motion } from 'framer-motion';
 import { socials } from '../constants';
 
@@ -38,7 +39,7 @@ const Footer = () => (
             METAVERUS
           </h4>
           <p className="font-normal text-[14px] text-white opacity-50">
-            Copyright © 2023 - 2024 Metaversus. All rights reserved.
+            Copyright © 2022 - 2023 Metaversus. All rights reserved.
           </p>
 
           <div className="flex gap-4">
